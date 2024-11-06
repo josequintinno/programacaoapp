@@ -8,4 +8,5 @@
     <string name="labelBotaoSalvar">Salvar</string>
     <string name="labelCheckboxProdutoImportado">Produto Importado</string>
     <string name="textMensagemCampoObrigatorio">Preencha os campos obrgatórios!</string>
+    <string name="labelMatriculaUsuario">UC11082234</string>
 </resources>
