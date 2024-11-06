@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">programacaoapp</string>
+    <string name="labelTituloTela">Atividade Aberta</string>
+    <string name="labelNomeProduto">Produto:</string>
+    <string name="labelPrecoProduto">Preço:</string>
+    <string name="textPlaceholderNomeProduto">Informe o nome do produto</string>
+    <string name="textPlaceholderPrecoProduto">Informe o preço do produto</string>
+    <string name="labelBotaoSalvar">Salvar</string>
+    <string name="labelCheckboxProdutoImportado">Produto Importado</string>
+    <string name="textMensagemCampoObrigatorio">Preencha os campos obrgatórios!</string>
+</resources>
